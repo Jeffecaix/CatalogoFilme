@@ -1,0 +1,16 @@
+J:\GitHub\Projeto C#\CadastroFilmes\CadastroFilmes\bin\Debug\net5.0\CadastroFilmes.exe
+J:\GitHub\Projeto C#\CadastroFilmes\CadastroFilmes\bin\Debug\net5.0\CadastroFilmes.deps.json
+J:\GitHub\Projeto C#\CadastroFilmes\CadastroFilmes\bin\Debug\net5.0\CadastroFilmes.runtimeconfig.json
+J:\GitHub\Projeto C#\CadastroFilmes\CadastroFilmes\bin\Debug\net5.0\CadastroFilmes.runtimeconfig.dev.json
+J:\GitHub\Projeto C#\CadastroFilmes\CadastroFilmes\bin\Debug\net5.0\CadastroFilmes.dll
+J:\GitHub\Projeto C#\CadastroFilmes\CadastroFilmes\bin\Debug\net5.0\ref\CadastroFilmes.dll
+J:\GitHub\Projeto C#\CadastroFilmes\CadastroFilmes\bin\Debug\net5.0\CadastroFilmes.pdb
+J:\GitHub\Projeto C#\CadastroFilmes\CadastroFilmes\obj\Debug\net5.0\CadastroFilmes.csproj.AssemblyReference.cache
+J:\GitHub\Projeto C#\CadastroFilmes\CadastroFilmes\obj\Debug\net5.0\CadastroFilmes.GeneratedMSBuildEditorConfig.editorconfig
+J:\GitHub\Projeto C#\CadastroFilmes\CadastroFilmes\obj\Debug\net5.0\CadastroFilmes.AssemblyInfoInputs.cache
+J:\GitHub\Projeto C#\CadastroFilmes\CadastroFilmes\obj\Debug\net5.0\CadastroFilmes.AssemblyInfo.cs
+J:\GitHub\Projeto C#\CadastroFilmes\CadastroFilmes\obj\Debug\net5.0\CadastroFilmes.csproj.CoreCompileInputs.cache
+J:\GitHub\Projeto C#\CadastroFilmes\CadastroFilmes\obj\Debug\net5.0\CadastroFilmes.dll
+J:\GitHub\Projeto C#\CadastroFilmes\CadastroFilmes\obj\Debug\net5.0\ref\CadastroFilmes.dll
+J:\GitHub\Projeto C#\CadastroFilmes\CadastroFilmes\obj\Debug\net5.0\CadastroFilmes.pdb
+J:\GitHub\Projeto C#\CadastroFilmes\CadastroFilmes\obj\Debug\net5.0\CadastroFilmes.genruntimeconfig.cache
